@@ -1,0 +1,30 @@
+[
+	{
+		"nome": "alberto",
+		"sobrenome": "jorge",
+		"idade": "34",
+		"cpf": "13231232123",
+		"cargo": "Atendente"
+	},
+	{
+		"nome": "jorge",
+		"sobrenome": "hugo",
+		"idade": "34",
+		"cpf": "13231232123",
+		"cargo": "Supervisor"
+	},
+	{
+		"nome": "guilherme",
+		"sobrenome": "silva",
+		"idade": "34",
+		"cpf": "13231232123",
+		"cargo": "Gerente"
+	},
+	{
+		"nome": "junior",
+		"sobrenome": "silva",
+		"idade": "34",
+		"cpf": "13231232123",
+		"cargo": "Estagiario"
+	}
+]
